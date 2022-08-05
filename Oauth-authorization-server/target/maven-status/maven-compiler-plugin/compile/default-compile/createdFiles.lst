@@ -1,0 +1,7 @@
+com\stream\oauthserver\config\AuthorizationServerConfig.class
+com\stream\oauthserver\config\DefaultSecurityConfig.class
+com\stream\oauthserver\service\CustomAuthenticationProvider.class
+com\stream\oauthserver\service\CustomUserDetailsService.class
+com\stream\oauthserver\repository\UserRepository.class
+com\stream\oauthserver\entity\User.class
+com\stream\oauthserver\OauthAuthorizationServerApplication.class
