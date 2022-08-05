@@ -1,0 +1,3 @@
+com\stream\Oauthresourceserver\OauthResourceServerApplication.class
+com\stream\Oauthresourceserver\controller\UserController.class
+com\stream\Oauthresourceserver\config\ResourceServerConfig.class

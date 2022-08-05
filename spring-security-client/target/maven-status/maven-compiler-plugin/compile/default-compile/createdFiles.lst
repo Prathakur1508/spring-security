@@ -1,0 +1,17 @@
+com\dailycodebuffer\client\model\PasswordModel.class
+com\stream\client\event\listener\RegistrationCompleteEventListener.class
+com\stream\client\controller\HelloController.class
+com\stream\client\entity\VerificationToken.class
+com\stream\client\repository\PasswordResetTokenRepository.class
+com\dailycodebuffer\client\model\UserModel.class
+com\stream\client\service\UserServiceImpl.class
+com\stream\client\entity\PasswordResetToken.class
+com\stream\client\config\WebSecurityConfig.class
+com\stream\client\repository\VerificationTokenRepository.class
+com\stream\client\repository\UserRepository.class
+com\stream\client\event\RegistrationCompleteEvent.class
+com\stream\client\controller\RegistrationController.class
+com\stream\client\entity\User.class
+com\stream\client\config\WebClientConfiguration.class
+com\stream\client\service\UserService.class
+com\dailycodebuffer\client\SpringSecurityClientApplication.class
